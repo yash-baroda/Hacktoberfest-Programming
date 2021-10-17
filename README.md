@@ -1,1 +1,3 @@
 # Hacktoberfest-Programming
+
+This is open for everyone...
